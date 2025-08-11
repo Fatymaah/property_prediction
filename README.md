@@ -22,4 +22,4 @@ Scatter plot of actual prices vs predicted prices with a diagonal perfect predic
 
 
 ---
-Generated as part of the House Price Prediction Project by Fatma.
+Generated as part of the Property Price Prediction Project by Fatma.
